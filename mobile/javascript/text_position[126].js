@@ -1,0 +1,1 @@
+﻿positionForPages[126]={page:126,positions:[{word:"2",left:0.836584,top:0.057122,width:0.020948,height:0.029612},{word:"ضتقا",left:0.324162,top:0.048682,width:0.067446,height:0.037563},{word:"لمعلا ملعلا ءا",left:0.143008,top:0.048682,width:0.181068,height:0.037563}]};

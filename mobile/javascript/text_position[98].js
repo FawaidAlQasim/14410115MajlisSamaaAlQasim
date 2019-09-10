@@ -1,0 +1,1 @@
+﻿positionForPages[98]={page:98,positions:[{word:"2",left:0.836584,top:0.057122,width:0.020948,height:0.029612},{word:"داقتعلاا  ةعلم",left:0.145578,top:0.048682,width:0.173480,height:0.037563}]};
